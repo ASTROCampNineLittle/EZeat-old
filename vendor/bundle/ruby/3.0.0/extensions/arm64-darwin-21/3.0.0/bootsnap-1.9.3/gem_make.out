@@ -1,0 +1,15 @@
+current directory: /Users/konatsu/Desktop/ww/demo/sample/EZeat/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.3/ext/bootsnap
+/Users/konatsu/.rvm/rubies/ruby-3.0.0/bin/ruby -I /Users/konatsu/.rvm/rubies/ruby-3.0.0/lib/ruby/site_ruby/3.0.0 -r ./siteconf20211216-59760-dyvuwv.rb extconf.rb
+creating Makefile
+
+current directory: /Users/konatsu/Desktop/ww/demo/sample/EZeat/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.3/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/konatsu/Desktop/ww/demo/sample/EZeat/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.3/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/konatsu/Desktop/ww/demo/sample/EZeat/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.3/ext/bootsnap
+make DESTDIR\= install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20211216-59760-wjfvat/bootsnap
