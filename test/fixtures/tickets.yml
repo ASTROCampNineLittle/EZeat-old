@@ -6,7 +6,6 @@ one:
   date: MyString
   quantity: 1
   plan_id: 1
-  store_id: 
 
 two:
   time_start: MyString
@@ -14,4 +13,3 @@ two:
   date: MyString
   quantity: 1
   plan_id: 1
-  store_id: 
