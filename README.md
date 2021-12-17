@@ -5,9 +5,11 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 3.0.0
 
-* System dependencies
+* System dependencies:
+- foreman: 0.87.2
+- tailwindcss: postcss7-compat
 
 * Configuration
 
