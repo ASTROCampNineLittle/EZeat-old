@@ -1,0 +1,15 @@
+current directory: /Users/konatsu/Desktop/ww/demo/sample/EZeat/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/konatsu/.rvm/rubies/ruby-3.0.0/bin/ruby -I /Users/konatsu/.rvm/rubies/ruby-3.0.0/lib/ruby/site_ruby/3.0.0 -r ./siteconf20211216-59760-iusi18.rb extconf.rb
+creating Makefile
+
+current directory: /Users/konatsu/Desktop/ww/demo/sample/EZeat/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /Users/konatsu/Desktop/ww/demo/sample/EZeat/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/konatsu/Desktop/ww/demo/sample/EZeat/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20211216-59760-g4oxen/skiptrace/internal
