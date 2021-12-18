@@ -1,9 +1,8 @@
 .snap-x {
   scroll-snap-type: x mandatory;
-  
-scroll-behavior: smooth;
--webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
 }
 .snap-start {
-scroll-snap-align: start;
+  scroll-snap-align: start;
 }
